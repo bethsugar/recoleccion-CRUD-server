@@ -11,9 +11,9 @@
 - Para instalar las dependencias correr el comando `npm i`
 
 ### CONFIGURAR EL SERVIDOR
-- Crear base de datos en la consola de MYSQL apartir de los comandos de server/database/recolecta.sql
+- Crear base de datos en la consola de MYSQL apartir de los comandos de database/recolecta.sql
 
-- Ir a server/src/keys.ts y modificar de acuerdo a sus credenciales
+- Ir a src/keys.ts y modificar de acuerdo a sus credenciales
 ```
 database: {
         host: 'localhost',
